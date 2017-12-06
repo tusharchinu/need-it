@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Need test">a86b883edb3643006914ddd0cf961951</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Need tests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_153257_need_it_need_test</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_153257_need_it.need_test_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-06 08:59:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>286b8c3edb3643006914ddd0cf96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need tests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Need IT" source="x_153257_need_it">374b4c3edb3643006914ddd0cf961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need IT">374b4c3edb3643006914ddd0cf961963</sys_scope>
+        <sys_update_name>sys_app_module_286b8c3edb3643006914ddd0cf96199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-06 08:59:32</sys_updated_on>
+        <timeline_page/>
+        <title>Need tests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

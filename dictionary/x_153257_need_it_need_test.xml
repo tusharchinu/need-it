@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Need test" max_length="40" name="x_153257_need_it_need_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
